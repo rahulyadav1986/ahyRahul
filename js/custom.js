@@ -1,3 +1,4 @@
+jQuery('.responsive-menu').meanmenu();
 jQuery(document).ready(function () {
   //When page loads...
   jQuery(".tab_content").hide(); //Hide all content
