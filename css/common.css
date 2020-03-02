@@ -1,0 +1,26 @@
+/* Custom css */
+
+/*font-family: 'Nunito', ;*/
+/*font-family: 'Arimo', ;*/
+
+.p-t{padding-top: 60px;}
+.p-b{padding-bottom: 60px;}
+h, h2, h3, h4, h5, h6{font-family: 'Nunito'; margin: 0; padding: 0;}
+
+a:focus, a:hover{ outline: none;}
+a:hover{text-decoration: none;}
+
+*,ul{margin: 0;padding: 0;}
+*,li{list-style: none;}
+input:focus,
+select:focus,
+textarea:focus,
+button:focus {outline: none;}
+body{	font-size: 15px;line-height: 25px;font-family: 'Arimo';ont-weight: 400; color: #626262;
+}
+
+
+
+
+
+
